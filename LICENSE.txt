@@ -1,1 +1,2 @@
 My license file
+Version 3.0
